@@ -1,0 +1,9 @@
+{
+    "short_name": "Delta Test",
+    "name": "Delta Test",
+
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+}
